@@ -1,0 +1,16 @@
+	Question 1 C#
+ 
+ 
+ 
+ 1) 5 = integer type 
+ 2) 5.0 = decimal type 
+ 3) 5>1 = comparison operators
+ 4) '5' = string type
+ 5) 5*2 = algebraic operators
+ 6) '5'*2 = algebraic operators
+ 7) '5' + '2'= algebric operators
+ 8) 5/2 = algebraic operators 
+ 9) 5//2 = algebraic operators
+ 10) [5,2,1] = lists type
+ 11) 5 in [1,4,6] = lists type
+ 12) pi (the number) = numbers type
